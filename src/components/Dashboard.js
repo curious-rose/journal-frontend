@@ -12,7 +12,6 @@ import { Header, Button } from 'semantic-ui-react';
 import ReadEntry from './ReadEntry';
 import EditEntry from './EditEntry';
 
-// import { Grid, Button } from 'react-bootstrap';
 
 const MainWrapper = styled.div`
   width: 100%;
